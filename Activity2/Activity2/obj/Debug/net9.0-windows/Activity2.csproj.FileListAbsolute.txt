@@ -1,0 +1,16 @@
+C:\Users\Zachary Scharton\source\repos\Activity2\Activity2\bin\Debug\net9.0-windows\Activity2.exe
+C:\Users\Zachary Scharton\source\repos\Activity2\Activity2\bin\Debug\net9.0-windows\Activity2.deps.json
+C:\Users\Zachary Scharton\source\repos\Activity2\Activity2\bin\Debug\net9.0-windows\Activity2.runtimeconfig.json
+C:\Users\Zachary Scharton\source\repos\Activity2\Activity2\bin\Debug\net9.0-windows\Activity2.dll
+C:\Users\Zachary Scharton\source\repos\Activity2\Activity2\bin\Debug\net9.0-windows\Activity2.pdb
+C:\Users\Zachary Scharton\source\repos\Activity2\Activity2\obj\Debug\net9.0-windows\Activity2.FrmSeconds.resources
+C:\Users\Zachary Scharton\source\repos\Activity2\Activity2\obj\Debug\net9.0-windows\Activity2.csproj.GenerateResource.cache
+C:\Users\Zachary Scharton\source\repos\Activity2\Activity2\obj\Debug\net9.0-windows\Activity2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zachary Scharton\source\repos\Activity2\Activity2\obj\Debug\net9.0-windows\Activity2.AssemblyInfoInputs.cache
+C:\Users\Zachary Scharton\source\repos\Activity2\Activity2\obj\Debug\net9.0-windows\Activity2.AssemblyInfo.cs
+C:\Users\Zachary Scharton\source\repos\Activity2\Activity2\obj\Debug\net9.0-windows\Activity2.csproj.CoreCompileInputs.cache
+C:\Users\Zachary Scharton\source\repos\Activity2\Activity2\obj\Debug\net9.0-windows\Activity2.dll
+C:\Users\Zachary Scharton\source\repos\Activity2\Activity2\obj\Debug\net9.0-windows\refint\Activity2.dll
+C:\Users\Zachary Scharton\source\repos\Activity2\Activity2\obj\Debug\net9.0-windows\Activity2.pdb
+C:\Users\Zachary Scharton\source\repos\Activity2\Activity2\obj\Debug\net9.0-windows\Activity2.genruntimeconfig.cache
+C:\Users\Zachary Scharton\source\repos\Activity2\Activity2\obj\Debug\net9.0-windows\ref\Activity2.dll
